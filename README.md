@@ -8,4 +8,5 @@ For each project add a wiki explaining that project
 
 # Resources
 [Scikit learn for Python](https://scikit-learn.org/stable/)
+
 [Tutorial](https://scikit-learn.org/stable/tutorial/)
